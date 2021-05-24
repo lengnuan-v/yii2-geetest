@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lengnuan\\geetest\\": "src"
+            "lengnuan\\captcha\\": "src"
         }
     }
 }
