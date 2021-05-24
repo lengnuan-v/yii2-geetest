@@ -80,7 +80,7 @@ class LoginForm extends Model
         ],
     ]);?>
 ```
-如上即为示例中的widget的展示，更多配置请参照本文中下面的配置章节
+如上即为示例中的widget的展示
 
 4.书写相应的controller,该内容跟本包无关，但是需要调用相应LoginForm的validate()方法。
 
