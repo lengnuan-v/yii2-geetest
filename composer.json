@@ -1,0 +1,21 @@
+{
+    "name": "lengnuan-v/yii2-geetest",
+    "description": "yii2 geetest captcha",
+    "type": "library",
+    "keywords": ["yii2","geetest","captcha"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lengnuan",
+            "email": "25314666@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "lengnuan\\geetest\\": ""
+        }
+    }
+}
