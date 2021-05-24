@@ -11,10 +11,8 @@ yii2框架的Js验证码，所有的使用方式跟系统自带的yii\captcha\Ca
 
 推荐的方式是通过composer 进行下载安装[composer](http://getcomposer.org/download/)。
 
-添加入如下两行：
 ```
-"ethercap/yii2-captcha" : "@dev",
-"gee-team/gt3-php-sdk": "@dev",
+composer require lengnuan-v/yii2-geetest
 ```
 
 到你的`composer.json`文件中的require段。
