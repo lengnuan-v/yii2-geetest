@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lengnuan\\geetest\\": ""
+            "lengnuan\\geetest\\": "src"
         }
     }
 }
