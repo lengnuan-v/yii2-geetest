@@ -66,6 +66,8 @@ class LoginForm extends Model
 ```
 3.在前端页面(如login.php)上加上captcha的展示:
 ```php
+
+    use lengnuan\captcha\GtCaptcha;
     <?=  GtCaptcha::widget([
         'onSuccess' => 'function(result){
             sendSms(); // js验证码成功时的动作，本例中为js发出短信验证码
