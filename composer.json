@@ -1,9 +1,9 @@
 {
     "name": "lengnuan-v/yii2-geetest",
     "description": "yii2 geetest captcha",
-    "type": "library",
+    "type": "yii2-extension",
     "keywords": ["yii2","geetest","captcha"],
-    "license": "MIT",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "lengnuan",
