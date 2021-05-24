@@ -12,7 +12,7 @@ yii2框架的Js验证码，所有的使用方式跟系统自带的yii\captcha\Ca
 推荐的方式是通过composer 进行下载安装[composer](http://getcomposer.org/download/)。
 
 ```
-composer require lengnuan-v/yii2-geetest
+composer require lengnuan-v/yii2-geetest:"@dev" 
 ```
 
 到你的`composer.json`文件中的require段。
